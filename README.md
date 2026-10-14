@@ -6,7 +6,7 @@
 
 **Members:**
 - Zubair Ali, 04072413013
-  Nouman Faiz, 04072413012
+- Nouman Faiz, 04072413012
 - Karam dad, 04072413039
 
 **Files:**
